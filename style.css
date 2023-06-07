@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    margin: 50px;
+
+}
+
+.dinero{
+    font-size: 30px;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    padding: 4px;
+}
+.div1{
+    display: flex;
+}
+
+.icon-1{
+    background-color: grey;
+}
+
+.section2{
+    background-color: gainsboro;
+    border-radius: 12px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.colocarsection{
+    display: flex;
+}
+
